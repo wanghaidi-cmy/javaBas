@@ -1,0 +1,21 @@
+
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Ä­Ç®
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÄéšÛüÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(óëêåùÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ˆ•³
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(Ü¢Ê
+S	java:S106="9Replace this use of System.out or System.err by a logger.(÷ÎµŸıÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(Ü¤¡Õşÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(³õöÂùÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(†ÎºÖ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(´›ÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(Àñû‹
+<
+java:S1125R"'Remove the unnecessary boolean literal.(ØÌ·
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(Àéğ
+]
+java:S1128"GRemove this unused import 'com.sun.xml.internal.bind.v2.model.core.ID'.(ô°ñ§
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ô°ñ§
+L
+java:S2589R"7Remove this expression which always evaluates to "true"(ØÌ·
