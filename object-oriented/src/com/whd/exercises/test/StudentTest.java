@@ -15,7 +15,7 @@ public class StudentTest {
         Student[] students1 = getStudents(students);
         System.out.println("*************************");
         System.out.println("年级为3的学生:");
-        getStateThree(students1);
+        getStateInfo(students1, 3);
         System.out.println("*************************");
         Student[] students2 = scoreSort(students1);
         System.out.println("排序后的顺序：");
@@ -30,7 +30,7 @@ public class StudentTest {
      * @return 返回Student类型对象数组
      */
     public static Student[] getStudents(Student[] students) {
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < students.length; i++) {
             students[i] = new Student();
             students[i].setNumber(i + 1);
             students[i].setScore((int) Math.round(Math.random() * (100 - 0 + 1)));
@@ -41,11 +41,15 @@ public class StudentTest {
     }
 
     /**
+     * 查找指定年级学生信息
      * 打印出3年级(state值为3）的学生信息。
+     *
+     * @param students 指定的学生数组
+     * @param state    指定的年级
      */
-    public static void getStateThree(Student[] students) {
-        for (int i = 0; i < 20; i++) {
-            if (students[i].getState() == 3) {
+    public static void getStateInfo(Student[] students, int state) {
+        for (int i = 0; i < students.length; i++) {
+            if (students[i].getState() == state) {
                 System.out.println(students[i].getInfo());
             }
         }
