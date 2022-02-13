@@ -10,6 +10,8 @@ public class Rectangular {
     public static void main(String[] args) {
         int ofRectangular = outputOfRectangular(4, 8);
         System.out.println("矩形面积为：" + ofRectangular);
+        //System.out.println(Math.round(Math.random()*(6-1+1)+1));
+        //System.out.println(Math.round(Math.random()*(100-0+1)));
     }
 
     /**
