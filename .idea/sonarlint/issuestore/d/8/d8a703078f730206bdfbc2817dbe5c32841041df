@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»šËøşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öó¾ïøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğøŞ
+D
+java:S2140$")Use "java.util.Random.nextInt()" instead.( ¼Öìùÿÿÿÿ
+?
+java:S2140%")Use "java.util.Random.nextInt()" instead.(¯´ˆ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(®Š¿ê
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(®Š¿ê
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(®Š¿ê
