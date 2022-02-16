@@ -5,8 +5,6 @@ W
 'day01/src/com/whd/variate/Variates.java,3\2\327e386a9e2aa25b169819c532ed9c325a627331
 ]
 -day01/src/com/whd/variate/TypeOfVariable.java,9\3\9314aa282ac57ab7d461567df95d74b45007063d
-b
-2day01/src/com/whd/indentifier/IndentFieryTest.java,5\4\5497326d57a0285f196dc4594a15b4d8d644ca48
 ^
 .day01/src/com/whd/variate/BasicOperations.java,3\7\37e0fd974c9aa2f1e2815bde4255fd3d995ac049
 W
@@ -57,3 +55,17 @@ M
 day04-method/day04-method.iml,d\e\de8554d2ab8dc89a264c731ed9e7faba834a54f3
 a
 1day04-method/src/com/whd/test/MethodArgsTest.java,b\3\b396c0074afb5eeb9f0d9f45f1b9994571282281
+j
+:day04-method/src/com/whd/introduce/ValueTransferTest1.java,8\7\87ce42761848dc9177ade77175bd2f3156fcec22
+a
+1day04-method/src/com/whd/introduce/Introduce.java,b\d\bdc241856b768392cbecac8ef8355c3d44e4e9ef
+i
+9day04-method/src/com/whd/introduce/ValueTransferTest.java,d\f\df57b2b27663dc90f61697a2bac24b9d26c4f8fd
+Y
+)day04-method/src/com/whd/pojo/Circle.java,5\4\54dd46002854100a10411f250d6f712724a4f6d8
+]
+-day04-method/src/com/whd/test/PassObject.java,f\b\fbc0543d4877688904fdd6f4a3bbe28b4ae67002
+e
+5day04-method/src/com/whd/introduce/RecursionTest.java,1\3\13bfdd19234f3d9bb838fe5c686e872253d55398
+b
+2day01/src/com/whd/indentifier/IndentFieryTest.java,5\4\5497326d57a0285f196dc4594a15b4d8d644ca48
